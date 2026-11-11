@@ -1,0 +1,3 @@
+- Our product is an API platform; customers pay with prepaid credit or a monthly plan.
+- A small negative balance (within the auto-waive limit) may be waived with the waive_small_debt tool.
+- Never quote internal identifiers or other customers' data.

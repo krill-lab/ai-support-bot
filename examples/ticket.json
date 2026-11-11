@@ -1,0 +1,9 @@
+{
+  "ticket_id": 2,
+  "user_id": 2,
+  "subject": "Paid but nothing arrived",
+  "as_of": "2026-01-06T08:05:00",
+  "messages": [
+    {"t": "2026-01-06T08:05:00", "text": "I topped up yesterday but my balance is still negative and my requests are rejected."}
+  ]
+}
